@@ -1,5 +1,1 @@
-# Perfectly
-# Imitate
-# Your
-# Action
-# Now
+# Earthquake Prediction
