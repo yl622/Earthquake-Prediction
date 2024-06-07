@@ -1,0 +1,3704 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<cwaopendata xmlns="urn:cwa:gov:tw:cwacommon:0.1">
+  <identifier>CWA-EQ-Catalog-2024</identifier>
+  <sender>cwasoc@cwa.gov.tw</sender>
+  <sent>2024-02-20T00:00:00+08:00</sent>
+  <status>Actual</status>
+  <msgType>Update</msgType>
+  <dataid>E-A0073-001</dataid>
+  <source>CWA</source>
+  <scope>Public</scope>
+  <Dataset>
+    <DatasetInfo>
+      <DatasetDescription>地震目錄</DatasetDescription>
+      <DatasetLanguage>zh-TW</DatasetLanguage>
+      <IssueTime>2024-02-20T00:00:00+08:00</IssueTime>
+      <Parameter>
+        <ParameterName>senderName</ParameterName>
+        <ParameterValue>中華民國交通部中央氣象署</ParameterValue>
+      </Parameter>
+      <Parameter>
+        <ParameterName>schemaVer</ParameterName>
+        <ParameterValue>TW-CWA-XML-EQ:1.0</ParameterValue>
+      </Parameter>
+    </DatasetInfo>
+    <Catalog>
+      <CatalogType>地震目錄</CatalogType>
+      <CatalogInfo>
+        <MagnitudeRange>3.00-9.00</MagnitudeRange>
+        <StartTime>2024-01-01T08:00:00+08:00</StartTime>
+        <EndTime>2024-02-01T08:00:00+08:00</EndTime>
+        <Region>
+          <LongitudeRange>119.000-123.000</LongitudeRange>
+          <LatitudeRange>21.000-26.000</LatitudeRange>
+        </Region>
+        <DepthRange>0.00-700.00</DepthRange>
+        <RecordNumber>229</RecordNumber>
+      </CatalogInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-01T11:56:50+08:00</OriginTime>
+        <EpicenterLongitude>122.448</EpicenterLongitude>
+        <EpicenterLatitude>22.228</EpicenterLatitude>
+        <FocalDepth>34.4</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 21</StationNumber>
+        <PhaseNumber>35</PhaseNumber>
+        <MinimumEpicenterDistance>26.70</MinimumEpicenterDistance>
+        <gap unit="度">281</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-01T12:32:50+08:00</OriginTime>
+        <EpicenterLongitude>122.816</EpicenterLongitude>
+        <EpicenterLatitude>25.033</EpicenterLatitude>
+        <FocalDepth>142.5</FocalDepth>
+        <LocalMagnitude> 3.9</LocalMagnitude>
+        <StationNumber> 91</StationNumber>
+        <PhaseNumber>175</PhaseNumber>
+        <MinimumEpicenterDistance>65.40</MinimumEpicenterDistance>
+        <gap unit="度">231</gap>
+        <rms unit="秒">0.41</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-01T15:07:33+08:00</OriginTime>
+        <EpicenterLongitude>122.983</EpicenterLongitude>
+        <EpicenterLatitude>24.046</EpicenterLatitude>
+        <FocalDepth>30.6</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 70</StationNumber>
+        <PhaseNumber>109</PhaseNumber>
+        <MinimumEpicenterDistance>47.00</MinimumEpicenterDistance>
+        <gap unit="度">215</gap>
+        <rms unit="秒">0.55</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-01T19:30:19+08:00</OriginTime>
+        <EpicenterLongitude>121.242</EpicenterLongitude>
+        <EpicenterLatitude>22.961</EpicenterLatitude>
+        <FocalDepth>29.0</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>221</PhaseNumber>
+        <MinimumEpicenterDistance>6.50</MinimumEpicenterDistance>
+        <gap unit="度">52</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-01T19:55:08+08:00</OriginTime>
+        <EpicenterLongitude>121.478</EpicenterLongitude>
+        <EpicenterLatitude>22.413</EpicenterLatitude>
+        <FocalDepth>24.3</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 91</StationNumber>
+        <PhaseNumber>135</PhaseNumber>
+        <MinimumEpicenterDistance>28.90</MinimumEpicenterDistance>
+        <gap unit="度">88</gap>
+        <rms unit="秒">0.44</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-01T22:37:22+08:00</OriginTime>
+        <EpicenterLongitude>121.769</EpicenterLongitude>
+        <EpicenterLatitude>22.089</EpicenterLatitude>
+        <FocalDepth>149.3</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 40</StationNumber>
+        <PhaseNumber>67</PhaseNumber>
+        <MinimumEpicenterDistance>21.30</MinimumEpicenterDistance>
+        <gap unit="度">219</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T02:43:48+08:00</OriginTime>
+        <EpicenterLongitude>122.486</EpicenterLongitude>
+        <EpicenterLatitude>24.304</EpicenterLatitude>
+        <FocalDepth>47.6</FocalDepth>
+        <LocalMagnitude> 3.9</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>294</PhaseNumber>
+        <MinimumEpicenterDistance>25.90</MinimumEpicenterDistance>
+        <gap unit="度">125</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T02:59:17+08:00</OriginTime>
+        <EpicenterLongitude>122.400</EpicenterLongitude>
+        <EpicenterLatitude>24.076</EpicenterLatitude>
+        <FocalDepth>25.2</FocalDepth>
+        <LocalMagnitude> 4.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>308</PhaseNumber>
+        <MinimumEpicenterDistance>9.80</MinimumEpicenterDistance>
+        <gap unit="度">132</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T05:53:16+08:00</OriginTime>
+        <EpicenterLongitude>121.401</EpicenterLongitude>
+        <EpicenterLatitude>22.210</EpicenterLatitude>
+        <FocalDepth>76.9</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 66</StationNumber>
+        <PhaseNumber>123</PhaseNumber>
+        <MinimumEpicenterDistance>25.00</MinimumEpicenterDistance>
+        <gap unit="度">79</gap>
+        <rms unit="秒">0.42</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T09:30:46+08:00</OriginTime>
+        <EpicenterLongitude>121.463</EpicenterLongitude>
+        <EpicenterLatitude>22.977</EpicenterLatitude>
+        <FocalDepth>18.8</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 52</StationNumber>
+        <PhaseNumber>87</PhaseNumber>
+        <MinimumEpicenterDistance>16.20</MinimumEpicenterDistance>
+        <gap unit="度">107</gap>
+        <rms unit="秒">0.28</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T09:41:25+08:00</OriginTime>
+        <EpicenterLongitude>121.974</EpicenterLongitude>
+        <EpicenterLatitude>24.576</EpicenterLatitude>
+        <FocalDepth>81.4</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 11</StationNumber>
+        <PhaseNumber>20</PhaseNumber>
+        <MinimumEpicenterDistance>12.20</MinimumEpicenterDistance>
+        <gap unit="度">197</gap>
+        <rms unit="秒">0.27</rms>
+        <erh unit="公里">0.8</erh>
+        <erz unit="公里">0.7</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T11:19:51+08:00</OriginTime>
+        <EpicenterLongitude>122.422</EpicenterLongitude>
+        <EpicenterLatitude>25.260</EpicenterLatitude>
+        <FocalDepth>182.0</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 16</StationNumber>
+        <PhaseNumber>30</PhaseNumber>
+        <MinimumEpicenterDistance>51.30</MinimumEpicenterDistance>
+        <gap unit="度">303</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">1.3</erh>
+        <erz unit="公里">1.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T17:26:42+08:00</OriginTime>
+        <EpicenterLongitude>122.901</EpicenterLongitude>
+        <EpicenterLatitude>25.010</EpicenterLatitude>
+        <FocalDepth>49.6</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 28</StationNumber>
+        <PhaseNumber>41</PhaseNumber>
+        <MinimumEpicenterDistance>60.90</MinimumEpicenterDistance>
+        <gap unit="度">220</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">1.1</erh>
+        <erz unit="公里">1.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T18:45:45+08:00</OriginTime>
+        <EpicenterLongitude>121.450</EpicenterLongitude>
+        <EpicenterLatitude>21.771</EpicenterLatitude>
+        <FocalDepth>81.6</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 46</StationNumber>
+        <PhaseNumber>82</PhaseNumber>
+        <MinimumEpicenterDistance>28.80</MinimumEpicenterDistance>
+        <gap unit="度">108</gap>
+        <rms unit="秒">0.31</rms>
+        <erh unit="公里">0.9</erh>
+        <erz unit="公里">1.0</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T19:30:30+08:00</OriginTime>
+        <EpicenterLongitude>122.229</EpicenterLongitude>
+        <EpicenterLatitude>25.479</EpicenterLatitude>
+        <FocalDepth>187.1</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 18</StationNumber>
+        <PhaseNumber>35</PhaseNumber>
+        <MinimumEpicenterDistance>22.40</MinimumEpicenterDistance>
+        <gap unit="度">239</gap>
+        <rms unit="秒">0.27</rms>
+        <erh unit="公里">1.9</erh>
+        <erz unit="公里">1.0</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T20:48:45+08:00</OriginTime>
+        <EpicenterLongitude>121.818</EpicenterLongitude>
+        <EpicenterLatitude>23.154</EpicenterLatitude>
+        <FocalDepth>25.3</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>231</PhaseNumber>
+        <MinimumEpicenterDistance>41.50</MinimumEpicenterDistance>
+        <gap unit="度">135</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T22:22:36+08:00</OriginTime>
+        <EpicenterLongitude>122.783</EpicenterLongitude>
+        <EpicenterLatitude>24.683</EpicenterLatitude>
+        <FocalDepth>114.4</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 83</StationNumber>
+        <PhaseNumber>149</PhaseNumber>
+        <MinimumEpicenterDistance>32.70</MinimumEpicenterDistance>
+        <gap unit="度">209</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-02T23:05:58+08:00</OriginTime>
+        <EpicenterLongitude>121.571</EpicenterLongitude>
+        <EpicenterLatitude>23.236</EpicenterLatitude>
+        <FocalDepth>39.9</FocalDepth>
+        <LocalMagnitude> 4.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>321</PhaseNumber>
+        <MinimumEpicenterDistance>15.10</MinimumEpicenterDistance>
+        <gap unit="度">87</gap>
+        <rms unit="秒">0.37</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-03T09:43:33+08:00</OriginTime>
+        <EpicenterLongitude>121.515</EpicenterLongitude>
+        <EpicenterLatitude>23.620</EpicenterLatitude>
+        <FocalDepth>23.1</FocalDepth>
+        <LocalMagnitude> 4.6</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>306</PhaseNumber>
+        <MinimumEpicenterDistance>10.30</MinimumEpicenterDistance>
+        <gap unit="度">82</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-03T12:17:51+08:00</OriginTime>
+        <EpicenterLongitude>121.939</EpicenterLongitude>
+        <EpicenterLatitude>24.894</EpicenterLatitude>
+        <FocalDepth>105.7</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 63</StationNumber>
+        <PhaseNumber>114</PhaseNumber>
+        <MinimumEpicenterDistance>13.90</MinimumEpicenterDistance>
+        <gap unit="度">125</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">1.1</erh>
+        <erz unit="公里">0.8</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-03T13:20:10+08:00</OriginTime>
+        <EpicenterLongitude>121.843</EpicenterLongitude>
+        <EpicenterLatitude>24.807</EpicenterLatitude>
+        <FocalDepth>113.7</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 43</StationNumber>
+        <PhaseNumber>81</PhaseNumber>
+        <MinimumEpicenterDistance>18.40</MinimumEpicenterDistance>
+        <gap unit="度">123</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-03T18:16:43+08:00</OriginTime>
+        <EpicenterLongitude>121.471</EpicenterLongitude>
+        <EpicenterLatitude>22.431</EpicenterLatitude>
+        <FocalDepth>24.1</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 87</StationNumber>
+        <PhaseNumber>162</PhaseNumber>
+        <MinimumEpicenterDistance>26.80</MinimumEpicenterDistance>
+        <gap unit="度">89</gap>
+        <rms unit="秒">0.52</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-03T18:29:42+08:00</OriginTime>
+        <EpicenterLongitude>121.366</EpicenterLongitude>
+        <EpicenterLatitude>22.814</EpicenterLatitude>
+        <FocalDepth>100.7</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 80</StationNumber>
+        <PhaseNumber>151</PhaseNumber>
+        <MinimumEpicenterDistance>18.50</MinimumEpicenterDistance>
+        <gap unit="度">141</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T01:10:43+08:00</OriginTime>
+        <EpicenterLongitude>121.828</EpicenterLongitude>
+        <EpicenterLatitude>24.822</EpicenterLatitude>
+        <FocalDepth>82.1</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 97</StationNumber>
+        <PhaseNumber>188</PhaseNumber>
+        <MinimumEpicenterDistance>9.70</MinimumEpicenterDistance>
+        <gap unit="度">87</gap>
+        <rms unit="秒">0.27</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T01:38:16+08:00</OriginTime>
+        <EpicenterLongitude>121.951</EpicenterLongitude>
+        <EpicenterLatitude>24.424</EpicenterLatitude>
+        <FocalDepth>30.5</FocalDepth>
+        <LocalMagnitude> 3.9</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>263</PhaseNumber>
+        <MinimumEpicenterDistance>17.70</MinimumEpicenterDistance>
+        <gap unit="度">96</gap>
+        <rms unit="秒">0.24</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T01:38:42+08:00</OriginTime>
+        <EpicenterLongitude>121.935</EpicenterLongitude>
+        <EpicenterLatitude>24.436</EpicenterLatitude>
+        <FocalDepth>28.2</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 20</StationNumber>
+        <PhaseNumber>39</PhaseNumber>
+        <MinimumEpicenterDistance>15.90</MinimumEpicenterDistance>
+        <gap unit="度">126</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.8</erh>
+        <erz unit="公里">1.0</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T12:17:39+08:00</OriginTime>
+        <EpicenterLongitude>122.072</EpicenterLongitude>
+        <EpicenterLatitude>22.000</EpicenterLatitude>
+        <FocalDepth>31.3</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 39</StationNumber>
+        <PhaseNumber>55</PhaseNumber>
+        <MinimumEpicenterDistance>25.50</MinimumEpicenterDistance>
+        <gap unit="度">243</gap>
+        <rms unit="秒">0.42</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T12:21:03+08:00</OriginTime>
+        <EpicenterLongitude>121.682</EpicenterLongitude>
+        <EpicenterLatitude>21.824</EpicenterLatitude>
+        <FocalDepth>8.9</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 49</StationNumber>
+        <PhaseNumber>76</PhaseNumber>
+        <MinimumEpicenterDistance>22.10</MinimumEpicenterDistance>
+        <gap unit="度">156</gap>
+        <rms unit="秒">0.44</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T12:21:56+08:00</OriginTime>
+        <EpicenterLongitude>121.699</EpicenterLongitude>
+        <EpicenterLatitude>21.814</EpicenterLatitude>
+        <FocalDepth>25.9</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 27</StationNumber>
+        <PhaseNumber>42</PhaseNumber>
+        <MinimumEpicenterDistance>23.90</MinimumEpicenterDistance>
+        <gap unit="度">161</gap>
+        <rms unit="秒">0.45</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T16:41:48+08:00</OriginTime>
+        <EpicenterLongitude>121.812</EpicenterLongitude>
+        <EpicenterLatitude>21.253</EpicenterLatitude>
+        <FocalDepth>75.7</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 6</StationNumber>
+        <PhaseNumber>8</PhaseNumber>
+        <MinimumEpicenterDistance>42.30</MinimumEpicenterDistance>
+        <gap unit="度">280</gap>
+        <rms unit="秒">0.52</rms>
+        <erh unit="公里">1.2</erh>
+        <erz unit="公里">0.7</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T17:38:23+08:00</OriginTime>
+        <EpicenterLongitude>121.837</EpicenterLongitude>
+        <EpicenterLatitude>24.586</EpicenterLatitude>
+        <FocalDepth>68.3</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 91</StationNumber>
+        <PhaseNumber>170</PhaseNumber>
+        <MinimumEpicenterDistance>1.30</MinimumEpicenterDistance>
+        <gap unit="度">70</gap>
+        <rms unit="秒">0.26</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T21:25:55+08:00</OriginTime>
+        <EpicenterLongitude>121.234</EpicenterLongitude>
+        <EpicenterLatitude>23.142</EpicenterLatitude>
+        <FocalDepth>22.2</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>189</PhaseNumber>
+        <MinimumEpicenterDistance>3.00</MinimumEpicenterDistance>
+        <gap unit="度">50</gap>
+        <rms unit="秒">0.42</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T22:11:25+08:00</OriginTime>
+        <EpicenterLongitude>122.801</EpicenterLongitude>
+        <EpicenterLatitude>24.048</EpicenterLatitude>
+        <FocalDepth>15.1</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 91</StationNumber>
+        <PhaseNumber>151</PhaseNumber>
+        <MinimumEpicenterDistance>49.90</MinimumEpicenterDistance>
+        <gap unit="度">256</gap>
+        <rms unit="秒">0.42</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-04T22:55:22+08:00</OriginTime>
+        <EpicenterLongitude>122.006</EpicenterLongitude>
+        <EpicenterLatitude>24.828</EpicenterLatitude>
+        <FocalDepth>8.3</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>178</PhaseNumber>
+        <MinimumEpicenterDistance>6.50</MinimumEpicenterDistance>
+        <gap unit="度">155</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-05T00:45:21+08:00</OriginTime>
+        <EpicenterLongitude>122.315</EpicenterLongitude>
+        <EpicenterLatitude>21.113</EpicenterLatitude>
+        <FocalDepth>188.3</FocalDepth>
+        <LocalMagnitude> 3.8</LocalMagnitude>
+        <StationNumber> 30</StationNumber>
+        <PhaseNumber>58</PhaseNumber>
+        <MinimumEpicenterDistance>94.20</MinimumEpicenterDistance>
+        <gap unit="度">314</gap>
+        <rms unit="秒">0.39</rms>
+        <erh unit="公里">3.2</erh>
+        <erz unit="公里">1.8</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-05T02:10:57+08:00</OriginTime>
+        <EpicenterLongitude>121.853</EpicenterLongitude>
+        <EpicenterLatitude>24.455</EpicenterLatitude>
+        <FocalDepth>18.4</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>208</PhaseNumber>
+        <MinimumEpicenterDistance>7.60</MinimumEpicenterDistance>
+        <gap unit="度">76</gap>
+        <rms unit="秒">0.43</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-05T07:33:12+08:00</OriginTime>
+        <EpicenterLongitude>121.563</EpicenterLongitude>
+        <EpicenterLatitude>23.252</EpicenterLatitude>
+        <FocalDepth>43.6</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 94</StationNumber>
+        <PhaseNumber>158</PhaseNumber>
+        <MinimumEpicenterDistance>13.50</MinimumEpicenterDistance>
+        <gap unit="度">113</gap>
+        <rms unit="秒">0.41</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-05T11:12:54+08:00</OriginTime>
+        <EpicenterLongitude>121.919</EpicenterLongitude>
+        <EpicenterLatitude>23.563</EpicenterLatitude>
+        <FocalDepth>36.2</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 96</StationNumber>
+        <PhaseNumber>177</PhaseNumber>
+        <MinimumEpicenterDistance>41.20</MinimumEpicenterDistance>
+        <gap unit="度">128</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-05T12:13:38+08:00</OriginTime>
+        <EpicenterLongitude>121.858</EpicenterLongitude>
+        <EpicenterLatitude>24.425</EpicenterLatitude>
+        <FocalDepth>16.3</FocalDepth>
+        <LocalMagnitude> 3.9</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>226</PhaseNumber>
+        <MinimumEpicenterDistance>8.40</MinimumEpicenterDistance>
+        <gap unit="度">70</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-06T00:58:07+08:00</OriginTime>
+        <EpicenterLongitude>122.861</EpicenterLongitude>
+        <EpicenterLatitude>24.644</EpicenterLatitude>
+        <FocalDepth>85.8</FocalDepth>
+        <LocalMagnitude> 5.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>375</PhaseNumber>
+        <MinimumEpicenterDistance>74.90</MinimumEpicenterDistance>
+        <gap unit="度">108</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-06T01:47:56+08:00</OriginTime>
+        <EpicenterLongitude>122.840</EpicenterLongitude>
+        <EpicenterLatitude>24.620</EpicenterLatitude>
+        <FocalDepth>80.2</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 85</StationNumber>
+        <PhaseNumber>153</PhaseNumber>
+        <MinimumEpicenterDistance>71.80</MinimumEpicenterDistance>
+        <gap unit="度">274</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-06T02:46:28+08:00</OriginTime>
+        <EpicenterLongitude>122.774</EpicenterLongitude>
+        <EpicenterLatitude>24.711</EpicenterLatitude>
+        <FocalDepth>100.5</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 80</StationNumber>
+        <PhaseNumber>141</PhaseNumber>
+        <MinimumEpicenterDistance>72.20</MinimumEpicenterDistance>
+        <gap unit="度">247</gap>
+        <rms unit="秒">0.42</rms>
+        <erh unit="公里">0.7</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-06T03:25:40+08:00</OriginTime>
+        <EpicenterLongitude>120.472</EpicenterLongitude>
+        <EpicenterLatitude>23.150</EpicenterLatitude>
+        <FocalDepth>12.9</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>250</PhaseNumber>
+        <MinimumEpicenterDistance>7.00</MinimumEpicenterDistance>
+        <gap unit="度">24</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-06T03:35:27+08:00</OriginTime>
+        <EpicenterLongitude>122.007</EpicenterLongitude>
+        <EpicenterLatitude>23.813</EpicenterLatitude>
+        <FocalDepth>38.2</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>273</PhaseNumber>
+        <MinimumEpicenterDistance>42.40</MinimumEpicenterDistance>
+        <gap unit="度">131</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-06T10:22:21+08:00</OriginTime>
+        <EpicenterLongitude>121.949</EpicenterLongitude>
+        <EpicenterLatitude>23.947</EpicenterLatitude>
+        <FocalDepth>39.4</FocalDepth>
+        <LocalMagnitude> 4.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>291</PhaseNumber>
+        <MinimumEpicenterDistance>34.20</MinimumEpicenterDistance>
+        <gap unit="度">103</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-06T13:57:51+08:00</OriginTime>
+        <EpicenterLongitude>120.025</EpicenterLongitude>
+        <EpicenterLatitude>21.217</EpicenterLatitude>
+        <FocalDepth>84.7</FocalDepth>
+        <LocalMagnitude> 4.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>203</PhaseNumber>
+        <MinimumEpicenterDistance>78.00</MinimumEpicenterDistance>
+        <gap unit="度">239</gap>
+        <rms unit="秒">0.48</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-06T21:56:12+08:00</OriginTime>
+        <EpicenterLongitude>121.470</EpicenterLongitude>
+        <EpicenterLatitude>22.999</EpicenterLatitude>
+        <FocalDepth>39.3</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 95</StationNumber>
+        <PhaseNumber>153</PhaseNumber>
+        <MinimumEpicenterDistance>14.80</MinimumEpicenterDistance>
+        <gap unit="度">107</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-07T04:30:27+08:00</OriginTime>
+        <EpicenterLongitude>121.273</EpicenterLongitude>
+        <EpicenterLatitude>23.413</EpicenterLatitude>
+        <FocalDepth>18.1</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>288</PhaseNumber>
+        <MinimumEpicenterDistance>3.30</MinimumEpicenterDistance>
+        <gap unit="度">48</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-07T05:41:23+08:00</OriginTime>
+        <EpicenterLongitude>122.432</EpicenterLongitude>
+        <EpicenterLatitude>24.815</EpicenterLatitude>
+        <FocalDepth>16.2</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>280</PhaseNumber>
+        <MinimumEpicenterDistance>49.00</MinimumEpicenterDistance>
+        <gap unit="度">202</gap>
+        <rms unit="秒">0.43</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-07T07:04:09+08:00</OriginTime>
+        <EpicenterLongitude>120.025</EpicenterLongitude>
+        <EpicenterLatitude>21.264</EpicenterLatitude>
+        <FocalDepth>89.8</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 19</StationNumber>
+        <PhaseNumber>32</PhaseNumber>
+        <MinimumEpicenterDistance>73.80</MinimumEpicenterDistance>
+        <gap unit="度">287</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">1.2</erh>
+        <erz unit="公里">1.0</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-07T08:14:22+08:00</OriginTime>
+        <EpicenterLongitude>122.482</EpicenterLongitude>
+        <EpicenterLatitude>24.796</EpicenterLatitude>
+        <FocalDepth>22.4</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 54</StationNumber>
+        <PhaseNumber>95</PhaseNumber>
+        <MinimumEpicenterDistance>54.50</MinimumEpicenterDistance>
+        <gap unit="度">208</gap>
+        <rms unit="秒">0.42</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.8</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-07T12:33:30+08:00</OriginTime>
+        <EpicenterLongitude>122.240</EpicenterLongitude>
+        <EpicenterLatitude>24.938</EpicenterLatitude>
+        <FocalDepth>14.7</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 68</StationNumber>
+        <PhaseNumber>136</PhaseNumber>
+        <MinimumEpicenterDistance>25.80</MinimumEpicenterDistance>
+        <gap unit="度">175</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-07T18:48:12+08:00</OriginTime>
+        <EpicenterLongitude>121.825</EpicenterLongitude>
+        <EpicenterLatitude>24.276</EpicenterLatitude>
+        <FocalDepth>39.0</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>310</PhaseNumber>
+        <MinimumEpicenterDistance>8.40</MinimumEpicenterDistance>
+        <gap unit="度">62</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-08T00:04:35+08:00</OriginTime>
+        <EpicenterLongitude>121.610</EpicenterLongitude>
+        <EpicenterLatitude>21.367</EpicenterLatitude>
+        <FocalDepth>143.2</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 69</StationNumber>
+        <PhaseNumber>121</PhaseNumber>
+        <MinimumEpicenterDistance>19.30</MinimumEpicenterDistance>
+        <gap unit="度">260</gap>
+        <rms unit="秒">0.49</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-08T01:10:33+08:00</OriginTime>
+        <EpicenterLongitude>121.062</EpicenterLongitude>
+        <EpicenterLatitude>22.252</EpicenterLatitude>
+        <FocalDepth>17.8</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 87</StationNumber>
+        <PhaseNumber>158</PhaseNumber>
+        <MinimumEpicenterDistance>19.90</MinimumEpicenterDistance>
+        <gap unit="度">58</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-08T03:04:02+08:00</OriginTime>
+        <EpicenterLongitude>122.375</EpicenterLongitude>
+        <EpicenterLatitude>24.337</EpicenterLatitude>
+        <FocalDepth>71.1</FocalDepth>
+        <LocalMagnitude> 4.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>344</PhaseNumber>
+        <MinimumEpicenterDistance>15.50</MinimumEpicenterDistance>
+        <gap unit="度">205</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-08T17:05:00+08:00</OriginTime>
+        <EpicenterLongitude>122.382</EpicenterLongitude>
+        <EpicenterLatitude>24.793</EpicenterLatitude>
+        <FocalDepth>5.2</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 96</StationNumber>
+        <PhaseNumber>168</PhaseNumber>
+        <MinimumEpicenterDistance>44.20</MinimumEpicenterDistance>
+        <gap unit="度">203</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">0.9</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-08T18:53:07+08:00</OriginTime>
+        <EpicenterLongitude>122.460</EpicenterLongitude>
+        <EpicenterLatitude>24.836</EpicenterLatitude>
+        <FocalDepth>16.6</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 48</StationNumber>
+        <PhaseNumber>86</PhaseNumber>
+        <MinimumEpicenterDistance>52.30</MinimumEpicenterDistance>
+        <gap unit="度">214</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-08T19:54:53+08:00</OriginTime>
+        <EpicenterLongitude>122.373</EpicenterLongitude>
+        <EpicenterLatitude>24.813</EpicenterLatitude>
+        <FocalDepth>11.6</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 52</StationNumber>
+        <PhaseNumber>100</PhaseNumber>
+        <MinimumEpicenterDistance>43.80</MinimumEpicenterDistance>
+        <gap unit="度">195</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-08T22:40:45+08:00</OriginTime>
+        <EpicenterLongitude>120.965</EpicenterLongitude>
+        <EpicenterLatitude>21.604</EpicenterLatitude>
+        <FocalDepth>42.8</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 48</StationNumber>
+        <PhaseNumber>67</PhaseNumber>
+        <MinimumEpicenterDistance>34.80</MinimumEpicenterDistance>
+        <gap unit="度">193</gap>
+        <rms unit="秒">0.27</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-08T22:57:17+08:00</OriginTime>
+        <EpicenterLongitude>121.065</EpicenterLongitude>
+        <EpicenterLatitude>22.872</EpicenterLatitude>
+        <FocalDepth>8.8</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>219</PhaseNumber>
+        <MinimumEpicenterDistance>6.20</MinimumEpicenterDistance>
+        <gap unit="度">54</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-09T06:54:41+08:00</OriginTime>
+        <EpicenterLongitude>121.668</EpicenterLongitude>
+        <EpicenterLatitude>23.583</EpicenterLatitude>
+        <FocalDepth>40.8</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>221</PhaseNumber>
+        <MinimumEpicenterDistance>18.50</MinimumEpicenterDistance>
+        <gap unit="度">95</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-09T07:08:57+08:00</OriginTime>
+        <EpicenterLongitude>121.206</EpicenterLongitude>
+        <EpicenterLatitude>22.640</EpicenterLatitude>
+        <FocalDepth>24.7</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 91</StationNumber>
+        <PhaseNumber>162</PhaseNumber>
+        <MinimumEpicenterDistance>13.50</MinimumEpicenterDistance>
+        <gap unit="度">48</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-09T12:04:23+08:00</OriginTime>
+        <EpicenterLongitude>120.157</EpicenterLongitude>
+        <EpicenterLatitude>21.961</EpicenterLatitude>
+        <FocalDepth>56.1</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 51</StationNumber>
+        <PhaseNumber>99</PhaseNumber>
+        <MinimumEpicenterDistance>34.20</MinimumEpicenterDistance>
+        <gap unit="度">211</gap>
+        <rms unit="秒">0.46</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-09T12:49:36+08:00</OriginTime>
+        <EpicenterLongitude>121.077</EpicenterLongitude>
+        <EpicenterLatitude>22.871</EpicenterLatitude>
+        <FocalDepth>9.0</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>234</PhaseNumber>
+        <MinimumEpicenterDistance>5.90</MinimumEpicenterDistance>
+        <gap unit="度">51</gap>
+        <rms unit="秒">0.46</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-09T23:37:53+08:00</OriginTime>
+        <EpicenterLongitude>122.529</EpicenterLongitude>
+        <EpicenterLatitude>23.791</EpicenterLatitude>
+        <FocalDepth>24.8</FocalDepth>
+        <LocalMagnitude> 4.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>298</PhaseNumber>
+        <MinimumEpicenterDistance>42.50</MinimumEpicenterDistance>
+        <gap unit="度">211</gap>
+        <rms unit="秒">0.45</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-10T14:58:49+08:00</OriginTime>
+        <EpicenterLongitude>122.234</EpicenterLongitude>
+        <EpicenterLatitude>24.883</EpicenterLatitude>
+        <FocalDepth>115.4</FocalDepth>
+        <LocalMagnitude> 3.9</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>218</PhaseNumber>
+        <MinimumEpicenterDistance>27.60</MinimumEpicenterDistance>
+        <gap unit="度">224</gap>
+        <rms unit="秒">0.31</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-10T15:44:26+08:00</OriginTime>
+        <EpicenterLongitude>121.638</EpicenterLongitude>
+        <EpicenterLatitude>23.869</EpicenterLatitude>
+        <FocalDepth>40.6</FocalDepth>
+        <LocalMagnitude> 4.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>294</PhaseNumber>
+        <MinimumEpicenterDistance>5.30</MinimumEpicenterDistance>
+        <gap unit="度">76</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-10T18:13:50+08:00</OriginTime>
+        <EpicenterLongitude>120.591</EpicenterLongitude>
+        <EpicenterLatitude>22.423</EpicenterLatitude>
+        <FocalDepth>20.6</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 90</StationNumber>
+        <PhaseNumber>171</PhaseNumber>
+        <MinimumEpicenterDistance>7.00</MinimumEpicenterDistance>
+        <gap unit="度">56</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-10T19:27:22+08:00</OriginTime>
+        <EpicenterLongitude>122.372</EpicenterLongitude>
+        <EpicenterLatitude>24.778</EpicenterLatitude>
+        <FocalDepth>5.5</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 54</StationNumber>
+        <PhaseNumber>102</PhaseNumber>
+        <MinimumEpicenterDistance>42.20</MinimumEpicenterDistance>
+        <gap unit="度">238</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.7</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-10T21:02:19+08:00</OriginTime>
+        <EpicenterLongitude>121.628</EpicenterLongitude>
+        <EpicenterLatitude>23.869</EpicenterLatitude>
+        <FocalDepth>41.2</FocalDepth>
+        <LocalMagnitude> 4.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>301</PhaseNumber>
+        <MinimumEpicenterDistance>4.60</MinimumEpicenterDistance>
+        <gap unit="度">77</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-11T01:25:38+08:00</OriginTime>
+        <EpicenterLongitude>121.046</EpicenterLongitude>
+        <EpicenterLatitude>22.749</EpicenterLatitude>
+        <FocalDepth>5.2</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>224</PhaseNumber>
+        <MinimumEpicenterDistance>8.40</MinimumEpicenterDistance>
+        <gap unit="度">50</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-11T02:08:38+08:00</OriginTime>
+        <EpicenterLongitude>122.248</EpicenterLongitude>
+        <EpicenterLatitude>24.925</EpicenterLatitude>
+        <FocalDepth>2.1</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 72</StationNumber>
+        <PhaseNumber>137</PhaseNumber>
+        <MinimumEpicenterDistance>27.00</MinimumEpicenterDistance>
+        <gap unit="度">175</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-11T05:50:20+08:00</OriginTime>
+        <EpicenterLongitude>121.633</EpicenterLongitude>
+        <EpicenterLatitude>23.877</EpicenterLatitude>
+        <FocalDepth>42.6</FocalDepth>
+        <LocalMagnitude> 4.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>276</PhaseNumber>
+        <MinimumEpicenterDistance>4.30</MinimumEpicenterDistance>
+        <gap unit="度">78</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-11T06:13:07+08:00</OriginTime>
+        <EpicenterLongitude>121.615</EpicenterLongitude>
+        <EpicenterLatitude>23.880</EpicenterLatitude>
+        <FocalDepth>40.3</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>204</PhaseNumber>
+        <MinimumEpicenterDistance>2.90</MinimumEpicenterDistance>
+        <gap unit="度">108</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-11T10:48:05+08:00</OriginTime>
+        <EpicenterLongitude>121.944</EpicenterLongitude>
+        <EpicenterLatitude>24.722</EpicenterLatitude>
+        <FocalDepth>78.4</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 71</StationNumber>
+        <PhaseNumber>128</PhaseNumber>
+        <MinimumEpicenterDistance>13.30</MinimumEpicenterDistance>
+        <gap unit="度">132</gap>
+        <rms unit="秒">0.24</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-11T13:26:21+08:00</OriginTime>
+        <EpicenterLongitude>121.298</EpicenterLongitude>
+        <EpicenterLatitude>22.260</EpicenterLatitude>
+        <FocalDepth>3.2</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 71</StationNumber>
+        <PhaseNumber>119</PhaseNumber>
+        <MinimumEpicenterDistance>32.20</MinimumEpicenterDistance>
+        <gap unit="度">66</gap>
+        <rms unit="秒">0.42</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-11T15:55:01+08:00</OriginTime>
+        <EpicenterLongitude>120.644</EpicenterLongitude>
+        <EpicenterLatitude>22.613</EpicenterLatitude>
+        <FocalDepth>19.7</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 83</StationNumber>
+        <PhaseNumber>138</PhaseNumber>
+        <MinimumEpicenterDistance>1.10</MinimumEpicenterDistance>
+        <gap unit="度">41</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-12T06:40:33+08:00</OriginTime>
+        <EpicenterLongitude>121.088</EpicenterLongitude>
+        <EpicenterLatitude>22.091</EpicenterLatitude>
+        <FocalDepth>30.1</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 71</StationNumber>
+        <PhaseNumber>142</PhaseNumber>
+        <MinimumEpicenterDistance>26.80</MinimumEpicenterDistance>
+        <gap unit="度">86</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-12T09:25:44+08:00</OriginTime>
+        <EpicenterLongitude>121.864</EpicenterLongitude>
+        <EpicenterLatitude>23.580</EpicenterLatitude>
+        <FocalDepth>35.7</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>303</PhaseNumber>
+        <MinimumEpicenterDistance>35.30</MinimumEpicenterDistance>
+        <gap unit="度">121</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-13T00:09:26+08:00</OriginTime>
+        <EpicenterLongitude>121.402</EpicenterLongitude>
+        <EpicenterLatitude>24.071</EpicenterLatitude>
+        <FocalDepth>62.4</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>209</PhaseNumber>
+        <MinimumEpicenterDistance>14.90</MinimumEpicenterDistance>
+        <gap unit="度">19</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-13T05:47:15+08:00</OriginTime>
+        <EpicenterLongitude>120.666</EpicenterLongitude>
+        <EpicenterLatitude>22.847</EpicenterLatitude>
+        <FocalDepth>19.2</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 89</StationNumber>
+        <PhaseNumber>156</PhaseNumber>
+        <MinimumEpicenterDistance>11.70</MinimumEpicenterDistance>
+        <gap unit="度">31</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-13T08:51:31+08:00</OriginTime>
+        <EpicenterLongitude>121.083</EpicenterLongitude>
+        <EpicenterLatitude>23.334</EpicenterLatitude>
+        <FocalDepth>2.9</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>206</PhaseNumber>
+        <MinimumEpicenterDistance>13.70</MinimumEpicenterDistance>
+        <gap unit="度">32</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-13T11:43:28+08:00</OriginTime>
+        <EpicenterLongitude>121.443</EpicenterLongitude>
+        <EpicenterLatitude>21.709</EpicenterLatitude>
+        <FocalDepth>35.6</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 90</StationNumber>
+        <PhaseNumber>156</PhaseNumber>
+        <MinimumEpicenterDistance>22.50</MinimumEpicenterDistance>
+        <gap unit="度">115</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-13T16:50:56+08:00</OriginTime>
+        <EpicenterLongitude>121.670</EpicenterLongitude>
+        <EpicenterLatitude>23.727</EpicenterLatitude>
+        <FocalDepth>38.5</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 94</StationNumber>
+        <PhaseNumber>161</PhaseNumber>
+        <MinimumEpicenterDistance>12.70</MinimumEpicenterDistance>
+        <gap unit="度">116</gap>
+        <rms unit="秒">0.28</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-14T01:21:09+08:00</OriginTime>
+        <EpicenterLongitude>121.503</EpicenterLongitude>
+        <EpicenterLatitude>23.515</EpicenterLatitude>
+        <FocalDepth>29.1</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>219</PhaseNumber>
+        <MinimumEpicenterDistance>8.50</MinimumEpicenterDistance>
+        <gap unit="度">83</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-14T02:41:29+08:00</OriginTime>
+        <EpicenterLongitude>121.561</EpicenterLongitude>
+        <EpicenterLatitude>24.581</EpicenterLatitude>
+        <FocalDepth>71.0</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>211</PhaseNumber>
+        <MinimumEpicenterDistance>5.50</MinimumEpicenterDistance>
+        <gap unit="度">32</gap>
+        <rms unit="秒">0.24</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-14T10:18:15+08:00</OriginTime>
+        <EpicenterLongitude>121.882</EpicenterLongitude>
+        <EpicenterLatitude>21.405</EpicenterLatitude>
+        <FocalDepth>171.8</FocalDepth>
+        <LocalMagnitude> 3.8</LocalMagnitude>
+        <StationNumber> 47</StationNumber>
+        <PhaseNumber>88</PhaseNumber>
+        <MinimumEpicenterDistance>39.70</MinimumEpicenterDistance>
+        <gap unit="度">292</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-14T20:02:47+08:00</OriginTime>
+        <EpicenterLongitude>121.921</EpicenterLongitude>
+        <EpicenterLatitude>24.875</EpicenterLatitude>
+        <FocalDepth>102.4</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 89</StationNumber>
+        <PhaseNumber>151</PhaseNumber>
+        <MinimumEpicenterDistance>4.30</MinimumEpicenterDistance>
+        <gap unit="度">119</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">1.0</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-15T01:04:04+08:00</OriginTime>
+        <EpicenterLongitude>121.903</EpicenterLongitude>
+        <EpicenterLatitude>24.001</EpicenterLatitude>
+        <FocalDepth>30.4</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>180</PhaseNumber>
+        <MinimumEpicenterDistance>29.50</MinimumEpicenterDistance>
+        <gap unit="度">135</gap>
+        <rms unit="秒">0.41</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-15T04:00:49+08:00</OriginTime>
+        <EpicenterLongitude>121.771</EpicenterLongitude>
+        <EpicenterLatitude>24.233</EpicenterLatitude>
+        <FocalDepth>16.1</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>171</PhaseNumber>
+        <MinimumEpicenterDistance>8.50</MinimumEpicenterDistance>
+        <gap unit="度">88</gap>
+        <rms unit="秒">0.26</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-15T07:37:54+08:00</OriginTime>
+        <EpicenterLongitude>120.536</EpicenterLongitude>
+        <EpicenterLatitude>23.168</EpicenterLatitude>
+        <FocalDepth>16.6</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>200</PhaseNumber>
+        <MinimumEpicenterDistance>2.10</MinimumEpicenterDistance>
+        <gap unit="度">34</gap>
+        <rms unit="秒">0.27</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-15T14:10:34+08:00</OriginTime>
+        <EpicenterLongitude>122.026</EpicenterLongitude>
+        <EpicenterLatitude>24.500</EpicenterLatitude>
+        <FocalDepth>24.8</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 77</StationNumber>
+        <PhaseNumber>147</PhaseNumber>
+        <MinimumEpicenterDistance>13.80</MinimumEpicenterDistance>
+        <gap unit="度">132</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-15T17:26:02+08:00</OriginTime>
+        <EpicenterLongitude>122.062</EpicenterLongitude>
+        <EpicenterLatitude>21.356</EpicenterLatitude>
+        <FocalDepth>152.5</FocalDepth>
+        <LocalMagnitude> 3.9</LocalMagnitude>
+        <StationNumber> 58</StationNumber>
+        <PhaseNumber>116</PhaseNumber>
+        <MinimumEpicenterDistance>58.90</MinimumEpicenterDistance>
+        <gap unit="度">279</gap>
+        <rms unit="秒">0.54</rms>
+        <erh unit="公里">1.3</erh>
+        <erz unit="公里">0.9</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-15T17:39:18+08:00</OriginTime>
+        <EpicenterLongitude>122.822</EpicenterLongitude>
+        <EpicenterLatitude>24.430</EpicenterLatitude>
+        <FocalDepth>109.2</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 45</StationNumber>
+        <PhaseNumber>68</PhaseNumber>
+        <MinimumEpicenterDistance>53.60</MinimumEpicenterDistance>
+        <gap unit="度">135</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">1.5</erh>
+        <erz unit="公里">1.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-15T18:00:43+08:00</OriginTime>
+        <EpicenterLongitude>120.721</EpicenterLongitude>
+        <EpicenterLatitude>24.305</EpicenterLatitude>
+        <FocalDepth>25.2</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>292</PhaseNumber>
+        <MinimumEpicenterDistance>7.60</MinimumEpicenterDistance>
+        <gap unit="度">36</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-15T21:07:33+08:00</OriginTime>
+        <EpicenterLongitude>120.530</EpicenterLongitude>
+        <EpicenterLatitude>23.175</EpicenterLatitude>
+        <FocalDepth>14.3</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>175</PhaseNumber>
+        <MinimumEpicenterDistance>1.20</MinimumEpicenterDistance>
+        <gap unit="度">55</gap>
+        <rms unit="秒">0.28</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-16T03:19:02+08:00</OriginTime>
+        <EpicenterLongitude>121.768</EpicenterLongitude>
+        <EpicenterLatitude>24.604</EpicenterLatitude>
+        <FocalDepth>67.7</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 79</StationNumber>
+        <PhaseNumber>142</PhaseNumber>
+        <MinimumEpicenterDistance>6.20</MinimumEpicenterDistance>
+        <gap unit="度">49</gap>
+        <rms unit="秒">0.25</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-16T04:46:29+08:00</OriginTime>
+        <EpicenterLongitude>122.415</EpicenterLongitude>
+        <EpicenterLatitude>24.904</EpicenterLatitude>
+        <FocalDepth>18.5</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 85</StationNumber>
+        <PhaseNumber>127</PhaseNumber>
+        <MinimumEpicenterDistance>43.90</MinimumEpicenterDistance>
+        <gap unit="度">225</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-16T11:44:05+08:00</OriginTime>
+        <EpicenterLongitude>121.760</EpicenterLongitude>
+        <EpicenterLatitude>23.354</EpicenterLatitude>
+        <FocalDepth>30.3</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 87</StationNumber>
+        <PhaseNumber>174</PhaseNumber>
+        <MinimumEpicenterDistance>31.70</MinimumEpicenterDistance>
+        <gap unit="度">127</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-16T13:10:10+08:00</OriginTime>
+        <EpicenterLongitude>121.871</EpicenterLongitude>
+        <EpicenterLatitude>23.955</EpicenterLatitude>
+        <FocalDepth>47.2</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>210</PhaseNumber>
+        <MinimumEpicenterDistance>26.20</MinimumEpicenterDistance>
+        <gap unit="度">124</gap>
+        <rms unit="秒">0.27</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-16T15:12:31+08:00</OriginTime>
+        <EpicenterLongitude>121.036</EpicenterLongitude>
+        <EpicenterLatitude>21.612</EpicenterLatitude>
+        <FocalDepth>46.0</FocalDepth>
+        <LocalMagnitude> 4.8</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>188</PhaseNumber>
+        <MinimumEpicenterDistance>37.00</MinimumEpicenterDistance>
+        <gap unit="度">155</gap>
+        <rms unit="秒">0.31</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-16T19:19:36+08:00</OriginTime>
+        <EpicenterLongitude>120.587</EpicenterLongitude>
+        <EpicenterLatitude>22.450</EpicenterLatitude>
+        <FocalDepth>23.1</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 72</StationNumber>
+        <PhaseNumber>144</PhaseNumber>
+        <MinimumEpicenterDistance>4.20</MinimumEpicenterDistance>
+        <gap unit="度">47</gap>
+        <rms unit="秒">0.45</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-17T03:17:02+08:00</OriginTime>
+        <EpicenterLongitude>121.717</EpicenterLongitude>
+        <EpicenterLatitude>24.664</EpicenterLatitude>
+        <FocalDepth>43.2</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>215</PhaseNumber>
+        <MinimumEpicenterDistance>3.40</MinimumEpicenterDistance>
+        <gap unit="度">73</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-17T06:12:26+08:00</OriginTime>
+        <EpicenterLongitude>121.749</EpicenterLongitude>
+        <EpicenterLatitude>21.658</EpicenterLatitude>
+        <FocalDepth>63.9</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 17</StationNumber>
+        <PhaseNumber>24</PhaseNumber>
+        <MinimumEpicenterDistance>28.50</MinimumEpicenterDistance>
+        <gap unit="度">200</gap>
+        <rms unit="秒">0.61</rms>
+        <erh unit="公里">0.9</erh>
+        <erz unit="公里">0.9</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-17T06:12:29+08:00</OriginTime>
+        <EpicenterLongitude>119.980</EpicenterLongitude>
+        <EpicenterLatitude>22.278</EpicenterLatitude>
+        <FocalDepth>35.7</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 43</StationNumber>
+        <PhaseNumber>75</PhaseNumber>
+        <MinimumEpicenterDistance>40.50</MinimumEpicenterDistance>
+        <gap unit="度">218</gap>
+        <rms unit="秒">0.41</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-17T15:00:47+08:00</OriginTime>
+        <EpicenterLongitude>121.826</EpicenterLongitude>
+        <EpicenterLatitude>24.587</EpicenterLatitude>
+        <FocalDepth>62.8</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 65</StationNumber>
+        <PhaseNumber>125</PhaseNumber>
+        <MinimumEpicenterDistance>2.20</MinimumEpicenterDistance>
+        <gap unit="度">116</gap>
+        <rms unit="秒">0.25</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-17T18:07:37+08:00</OriginTime>
+        <EpicenterLongitude>121.393</EpicenterLongitude>
+        <EpicenterLatitude>23.711</EpicenterLatitude>
+        <FocalDepth>14.3</FocalDepth>
+        <LocalMagnitude> 3.8</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>247</PhaseNumber>
+        <MinimumEpicenterDistance>1.00</MinimumEpicenterDistance>
+        <gap unit="度">58</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T07:46:41+08:00</OriginTime>
+        <EpicenterLongitude>120.222</EpicenterLongitude>
+        <EpicenterLatitude>22.427</EpicenterLatitude>
+        <FocalDepth>28.3</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 55</StationNumber>
+        <PhaseNumber>87</PhaseNumber>
+        <MinimumEpicenterDistance>17.50</MinimumEpicenterDistance>
+        <gap unit="度">156</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T09:05:59+08:00</OriginTime>
+        <EpicenterLongitude>122.975</EpicenterLongitude>
+        <EpicenterLatitude>24.795</EpicenterLatitude>
+        <FocalDepth>113.9</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 37</StationNumber>
+        <PhaseNumber>70</PhaseNumber>
+        <MinimumEpicenterDistance>93.90</MinimumEpicenterDistance>
+        <gap unit="度">305</gap>
+        <rms unit="秒">0.31</rms>
+        <erh unit="公里">0.7</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T09:20:59+08:00</OriginTime>
+        <EpicenterLongitude>121.277</EpicenterLongitude>
+        <EpicenterLatitude>22.846</EpicenterLatitude>
+        <FocalDepth>17.9</FocalDepth>
+        <LocalMagnitude> 4.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>193</PhaseNumber>
+        <MinimumEpicenterDistance>14.20</MinimumEpicenterDistance>
+        <gap unit="度">75</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T11:32:15+08:00</OriginTime>
+        <EpicenterLongitude>120.525</EpicenterLongitude>
+        <EpicenterLatitude>21.905</EpicenterLatitude>
+        <FocalDepth>54.3</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 55</StationNumber>
+        <PhaseNumber>95</PhaseNumber>
+        <MinimumEpicenterDistance>13.90</MinimumEpicenterDistance>
+        <gap unit="度">113</gap>
+        <rms unit="秒">0.24</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T12:44:40+08:00</OriginTime>
+        <EpicenterLongitude>120.675</EpicenterLongitude>
+        <EpicenterLatitude>22.833</EpicenterLatitude>
+        <FocalDepth>18.0</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 73</StationNumber>
+        <PhaseNumber>142</PhaseNumber>
+        <MinimumEpicenterDistance>10.50</MinimumEpicenterDistance>
+        <gap unit="度">34</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T15:27:37+08:00</OriginTime>
+        <EpicenterLongitude>122.111</EpicenterLongitude>
+        <EpicenterLatitude>24.259</EpicenterLatitude>
+        <FocalDepth>62.4</FocalDepth>
+        <LocalMagnitude> 4.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>186</PhaseNumber>
+        <MinimumEpicenterDistance>12.60</MinimumEpicenterDistance>
+        <gap unit="度">79</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T15:27:57+08:00</OriginTime>
+        <EpicenterLongitude>121.817</EpicenterLongitude>
+        <EpicenterLatitude>24.732</EpicenterLatitude>
+        <FocalDepth>10.9</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 29</StationNumber>
+        <PhaseNumber>38</PhaseNumber>
+        <MinimumEpicenterDistance>7.00</MinimumEpicenterDistance>
+        <gap unit="度">124</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.8</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T15:35:47+08:00</OriginTime>
+        <EpicenterLongitude>121.803</EpicenterLongitude>
+        <EpicenterLatitude>24.742</EpicenterLatitude>
+        <FocalDepth>10.5</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>147</PhaseNumber>
+        <MinimumEpicenterDistance>5.40</MinimumEpicenterDistance>
+        <gap unit="度">79</gap>
+        <rms unit="秒">0.28</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T18:35:25+08:00</OriginTime>
+        <EpicenterLongitude>121.533</EpicenterLongitude>
+        <EpicenterLatitude>23.638</EpicenterLatitude>
+        <FocalDepth>29.9</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>202</PhaseNumber>
+        <MinimumEpicenterDistance>7.90</MinimumEpicenterDistance>
+        <gap unit="度">94</gap>
+        <rms unit="秒">0.31</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-18T19:33:07+08:00</OriginTime>
+        <EpicenterLongitude>122.715</EpicenterLongitude>
+        <EpicenterLatitude>22.798</EpicenterLatitude>
+        <FocalDepth>45.0</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 39</StationNumber>
+        <PhaseNumber>76</PhaseNumber>
+        <MinimumEpicenterDistance>84.80</MinimumEpicenterDistance>
+        <gap unit="度">235</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">2.1</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-19T11:09:58+08:00</OriginTime>
+        <EpicenterLongitude>122.006</EpicenterLongitude>
+        <EpicenterLatitude>24.328</EpicenterLatitude>
+        <FocalDepth>25.0</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 43</StationNumber>
+        <PhaseNumber>72</PhaseNumber>
+        <MinimumEpicenterDistance>16.00</MinimumEpicenterDistance>
+        <gap unit="度">122</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-19T15:11:20+08:00</OriginTime>
+        <EpicenterLongitude>121.173</EpicenterLongitude>
+        <EpicenterLatitude>22.337</EpicenterLatitude>
+        <FocalDepth>29.2</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 86</StationNumber>
+        <PhaseNumber>135</PhaseNumber>
+        <MinimumEpicenterDistance>27.70</MinimumEpicenterDistance>
+        <gap unit="度">91</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-19T16:10:18+08:00</OriginTime>
+        <EpicenterLongitude>122.392</EpicenterLongitude>
+        <EpicenterLatitude>24.881</EpicenterLatitude>
+        <FocalDepth>9.2</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 59</StationNumber>
+        <PhaseNumber>104</PhaseNumber>
+        <MinimumEpicenterDistance>42.30</MinimumEpicenterDistance>
+        <gap unit="度">205</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.7</erh>
+        <erz unit="公里">1.0</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-19T16:31:13+08:00</OriginTime>
+        <EpicenterLongitude>120.674</EpicenterLongitude>
+        <EpicenterLatitude>22.859</EpicenterLatitude>
+        <FocalDepth>16.8</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 93</StationNumber>
+        <PhaseNumber>175</PhaseNumber>
+        <MinimumEpicenterDistance>13.20</MinimumEpicenterDistance>
+        <gap unit="度">21</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-20T02:01:41+08:00</OriginTime>
+        <EpicenterLongitude>121.608</EpicenterLongitude>
+        <EpicenterLatitude>23.901</EpicenterLatitude>
+        <FocalDepth>10.9</FocalDepth>
+        <LocalMagnitude> 4.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>280</PhaseNumber>
+        <MinimumEpicenterDistance>0.70</MinimumEpicenterDistance>
+        <gap unit="度">80</gap>
+        <rms unit="秒">0.37</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-20T04:25:27+08:00</OriginTime>
+        <EpicenterLongitude>121.854</EpicenterLongitude>
+        <EpicenterLatitude>24.416</EpicenterLatitude>
+        <FocalDepth>2.3</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>227</PhaseNumber>
+        <MinimumEpicenterDistance>8.30</MinimumEpicenterDistance>
+        <gap unit="度">76</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-20T05:29:07+08:00</OriginTime>
+        <EpicenterLongitude>121.373</EpicenterLongitude>
+        <EpicenterLatitude>23.220</EpicenterLatitude>
+        <FocalDepth>20.0</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>193</PhaseNumber>
+        <MinimumEpicenterDistance>8.40</MinimumEpicenterDistance>
+        <gap unit="度">94</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-20T16:42:09+08:00</OriginTime>
+        <EpicenterLongitude>121.954</EpicenterLongitude>
+        <EpicenterLatitude>24.419</EpicenterLatitude>
+        <FocalDepth>30.0</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>229</PhaseNumber>
+        <MinimumEpicenterDistance>17.70</MinimumEpicenterDistance>
+        <gap unit="度">95</gap>
+        <rms unit="秒">0.28</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-20T20:14:52+08:00</OriginTime>
+        <EpicenterLongitude>121.565</EpicenterLongitude>
+        <EpicenterLatitude>23.211</EpicenterLatitude>
+        <FocalDepth>41.4</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>260</PhaseNumber>
+        <MinimumEpicenterDistance>16.40</MinimumEpicenterDistance>
+        <gap unit="度">104</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-20T20:33:38+08:00</OriginTime>
+        <EpicenterLongitude>121.386</EpicenterLongitude>
+        <EpicenterLatitude>21.568</EpicenterLatitude>
+        <FocalDepth>82.7</FocalDepth>
+        <LocalMagnitude> 4.0</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>256</PhaseNumber>
+        <MinimumEpicenterDistance>14.40</MinimumEpicenterDistance>
+        <gap unit="度">173</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T00:57:21+08:00</OriginTime>
+        <EpicenterLongitude>122.442</EpicenterLongitude>
+        <EpicenterLatitude>24.805</EpicenterLatitude>
+        <FocalDepth>15.8</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 82</StationNumber>
+        <PhaseNumber>164</PhaseNumber>
+        <MinimumEpicenterDistance>50.40</MinimumEpicenterDistance>
+        <gap unit="度">243</gap>
+        <rms unit="秒">0.47</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.7</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T02:46:16+08:00</OriginTime>
+        <EpicenterLongitude>121.704</EpicenterLongitude>
+        <EpicenterLatitude>22.933</EpicenterLatitude>
+        <FocalDepth>30.5</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>232</PhaseNumber>
+        <MinimumEpicenterDistance>37.40</MinimumEpicenterDistance>
+        <gap unit="度">124</gap>
+        <rms unit="秒">0.37</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T03:51:38+08:00</OriginTime>
+        <EpicenterLongitude>121.757</EpicenterLongitude>
+        <EpicenterLatitude>24.384</EpicenterLatitude>
+        <FocalDepth>6.0</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>209</PhaseNumber>
+        <MinimumEpicenterDistance>4.70</MinimumEpicenterDistance>
+        <gap unit="度">97</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T09:50:46+08:00</OriginTime>
+        <EpicenterLongitude>121.426</EpicenterLongitude>
+        <EpicenterLatitude>23.266</EpicenterLatitude>
+        <FocalDepth>27.4</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 60</StationNumber>
+        <PhaseNumber>99</PhaseNumber>
+        <MinimumEpicenterDistance>6.10</MinimumEpicenterDistance>
+        <gap unit="度">151</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T09:59:53+08:00</OriginTime>
+        <EpicenterLongitude>122.177</EpicenterLongitude>
+        <EpicenterLatitude>24.210</EpicenterLatitude>
+        <FocalDepth>18.6</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 64</StationNumber>
+        <PhaseNumber>94</PhaseNumber>
+        <MinimumEpicenterDistance>16.60</MinimumEpicenterDistance>
+        <gap unit="度">94</gap>
+        <rms unit="秒">0.46</rms>
+        <erh unit="公里">0.9</erh>
+        <erz unit="公里">2.4</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T12:00:09+08:00</OriginTime>
+        <EpicenterLongitude>122.582</EpicenterLongitude>
+        <EpicenterLatitude>23.776</EpicenterLatitude>
+        <FocalDepth>39.5</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 43</StationNumber>
+        <PhaseNumber>69</PhaseNumber>
+        <MinimumEpicenterDistance>46.80</MinimumEpicenterDistance>
+        <gap unit="度">249</gap>
+        <rms unit="秒">0.41</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T13:49:06+08:00</OriginTime>
+        <EpicenterLongitude>121.078</EpicenterLongitude>
+        <EpicenterLatitude>22.064</EpicenterLatitude>
+        <FocalDepth>31.5</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 81</StationNumber>
+        <PhaseNumber>123</PhaseNumber>
+        <MinimumEpicenterDistance>25.20</MinimumEpicenterDistance>
+        <gap unit="度">91</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T18:16:04+08:00</OriginTime>
+        <EpicenterLongitude>122.307</EpicenterLongitude>
+        <EpicenterLatitude>24.644</EpicenterLatitude>
+        <FocalDepth>81.9</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 98</StationNumber>
+        <PhaseNumber>172</PhaseNumber>
+        <MinimumEpicenterDistance>30.80</MinimumEpicenterDistance>
+        <gap unit="度">231</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T21:22:40+08:00</OriginTime>
+        <EpicenterLongitude>120.702</EpicenterLongitude>
+        <EpicenterLatitude>23.179</EpicenterLatitude>
+        <FocalDepth>8.6</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>249</PhaseNumber>
+        <MinimumEpicenterDistance>6.90</MinimumEpicenterDistance>
+        <gap unit="度">31</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-21T22:06:29+08:00</OriginTime>
+        <EpicenterLongitude>121.973</EpicenterLongitude>
+        <EpicenterLatitude>24.931</EpicenterLatitude>
+        <FocalDepth>112.7</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 71</StationNumber>
+        <PhaseNumber>135</PhaseNumber>
+        <MinimumEpicenterDistance>8.70</MinimumEpicenterDistance>
+        <gap unit="度">142</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-22T06:57:15+08:00</OriginTime>
+        <EpicenterLongitude>122.370</EpicenterLongitude>
+        <EpicenterLatitude>24.052</EpicenterLatitude>
+        <FocalDepth>24.6</FocalDepth>
+        <LocalMagnitude> 4.6</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>287</PhaseNumber>
+        <MinimumEpicenterDistance>9.30</MinimumEpicenterDistance>
+        <gap unit="度">214</gap>
+        <rms unit="秒">0.41</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-22T07:15:44+08:00</OriginTime>
+        <EpicenterLongitude>121.673</EpicenterLongitude>
+        <EpicenterLatitude>24.883</EpicenterLatitude>
+        <FocalDepth>113.2</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 51</StationNumber>
+        <PhaseNumber>98</PhaseNumber>
+        <MinimumEpicenterDistance>13.40</MinimumEpicenterDistance>
+        <gap unit="度">51</gap>
+        <rms unit="秒">0.22</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-22T07:32:29+08:00</OriginTime>
+        <EpicenterLongitude>119.262</EpicenterLongitude>
+        <EpicenterLatitude>23.179</EpicenterLatitude>
+        <FocalDepth>15.3</FocalDepth>
+        <LocalMagnitude> 4.0</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>246</PhaseNumber>
+        <MinimumEpicenterDistance>17.40</MinimumEpicenterDistance>
+        <gap unit="度">145</gap>
+        <rms unit="秒">0.42</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-22T09:14:42+08:00</OriginTime>
+        <EpicenterLongitude>121.813</EpicenterLongitude>
+        <EpicenterLatitude>24.308</EpicenterLatitude>
+        <FocalDepth>40.7</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>219</PhaseNumber>
+        <MinimumEpicenterDistance>6.50</MinimumEpicenterDistance>
+        <gap unit="度">72</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-23T06:23:01+08:00</OriginTime>
+        <EpicenterLongitude>121.111</EpicenterLongitude>
+        <EpicenterLatitude>22.052</EpicenterLatitude>
+        <FocalDepth>31.4</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 60</StationNumber>
+        <PhaseNumber>84</PhaseNumber>
+        <MinimumEpicenterDistance>28.30</MinimumEpicenterDistance>
+        <gap unit="度">97</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-23T10:46:39+08:00</OriginTime>
+        <EpicenterLongitude>122.007</EpicenterLongitude>
+        <EpicenterLatitude>23.455</EpicenterLatitude>
+        <FocalDepth>37.5</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 56</StationNumber>
+        <PhaseNumber>90</PhaseNumber>
+        <MinimumEpicenterDistance>54.60</MinimumEpicenterDistance>
+        <gap unit="度">207</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.8</erh>
+        <erz unit="公里">1.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-23T11:05:39+08:00</OriginTime>
+        <EpicenterLongitude>121.386</EpicenterLongitude>
+        <EpicenterLatitude>22.949</EpicenterLatitude>
+        <FocalDepth>38.4</FocalDepth>
+        <LocalMagnitude> 3.8</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>193</PhaseNumber>
+        <MinimumEpicenterDistance>8.70</MinimumEpicenterDistance>
+        <gap unit="度">108</gap>
+        <rms unit="秒">0.39</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-23T11:09:23+08:00</OriginTime>
+        <EpicenterLongitude>121.990</EpicenterLongitude>
+        <EpicenterLatitude>24.398</EpicenterLatitude>
+        <FocalDepth>63.3</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 68</StationNumber>
+        <PhaseNumber>119</PhaseNumber>
+        <MinimumEpicenterDistance>14.20</MinimumEpicenterDistance>
+        <gap unit="度">80</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-23T11:22:31+08:00</OriginTime>
+        <EpicenterLongitude>121.328</EpicenterLongitude>
+        <EpicenterLatitude>21.380</EpicenterLatitude>
+        <FocalDepth>42.8</FocalDepth>
+        <LocalMagnitude> 4.0</LocalMagnitude>
+        <StationNumber> 34</StationNumber>
+        <PhaseNumber>42</PhaseNumber>
+        <MinimumEpicenterDistance>24.50</MinimumEpicenterDistance>
+        <gap unit="度">246</gap>
+        <rms unit="秒">0.39</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-23T15:43:58+08:00</OriginTime>
+        <EpicenterLongitude>122.232</EpicenterLongitude>
+        <EpicenterLatitude>24.494</EpicenterLatitude>
+        <FocalDepth>74.9</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 98</StationNumber>
+        <PhaseNumber>182</PhaseNumber>
+        <MinimumEpicenterDistance>13.40</MinimumEpicenterDistance>
+        <gap unit="度">203</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-23T15:52:06+08:00</OriginTime>
+        <EpicenterLongitude>120.565</EpicenterLongitude>
+        <EpicenterLatitude>22.092</EpicenterLatitude>
+        <FocalDepth>46.7</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>198</PhaseNumber>
+        <MinimumEpicenterDistance>21.00</MinimumEpicenterDistance>
+        <gap unit="度">105</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-23T19:01:24+08:00</OriginTime>
+        <EpicenterLongitude>120.679</EpicenterLongitude>
+        <EpicenterLatitude>22.864</EpicenterLatitude>
+        <FocalDepth>18.5</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>210</PhaseNumber>
+        <MinimumEpicenterDistance>13.80</MinimumEpicenterDistance>
+        <gap unit="度">25</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-23T23:08:27+08:00</OriginTime>
+        <EpicenterLongitude>122.421</EpicenterLongitude>
+        <EpicenterLatitude>24.716</EpicenterLatitude>
+        <FocalDepth>104.5</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>193</PhaseNumber>
+        <MinimumEpicenterDistance>44.20</MinimumEpicenterDistance>
+        <gap unit="度">242</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-24T02:04:43+08:00</OriginTime>
+        <EpicenterLongitude>121.837</EpicenterLongitude>
+        <EpicenterLatitude>24.765</EpicenterLatitude>
+        <FocalDepth>8.7</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>172</PhaseNumber>
+        <MinimumEpicenterDistance>8.10</MinimumEpicenterDistance>
+        <gap unit="度">80</gap>
+        <rms unit="秒">0.25</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-24T04:24:01+08:00</OriginTime>
+        <EpicenterLongitude>122.353</EpicenterLongitude>
+        <EpicenterLatitude>24.822</EpicenterLatitude>
+        <FocalDepth>116.0</FocalDepth>
+        <LocalMagnitude> 4.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>268</PhaseNumber>
+        <MinimumEpicenterDistance>41.60</MinimumEpicenterDistance>
+        <gap unit="度">206</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-24T08:24:21+08:00</OriginTime>
+        <EpicenterLongitude>121.463</EpicenterLongitude>
+        <EpicenterLatitude>23.914</EpicenterLatitude>
+        <FocalDepth>18.4</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 88</StationNumber>
+        <PhaseNumber>155</PhaseNumber>
+        <MinimumEpicenterDistance>6.50</MinimumEpicenterDistance>
+        <gap unit="度">49</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-24T10:22:37+08:00</OriginTime>
+        <EpicenterLongitude>122.838</EpicenterLongitude>
+        <EpicenterLatitude>23.119</EpicenterLatitude>
+        <FocalDepth>19.0</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 63</StationNumber>
+        <PhaseNumber>101</PhaseNumber>
+        <MinimumEpicenterDistance>121.40</MinimumEpicenterDistance>
+        <gap unit="度">235</gap>
+        <rms unit="秒">0.44</rms>
+        <erh unit="公里">1.4</erh>
+        <erz unit="公里">1.5</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-24T18:57:02+08:00</OriginTime>
+        <EpicenterLongitude>122.437</EpicenterLongitude>
+        <EpicenterLatitude>23.986</EpicenterLatitude>
+        <FocalDepth>24.6</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 98</StationNumber>
+        <PhaseNumber>179</PhaseNumber>
+        <MinimumEpicenterDistance>19.30</MinimumEpicenterDistance>
+        <gap unit="度">219</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-24T19:10:52+08:00</OriginTime>
+        <EpicenterLongitude>122.438</EpicenterLongitude>
+        <EpicenterLatitude>23.974</EpicenterLatitude>
+        <FocalDepth>24.1</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 93</StationNumber>
+        <PhaseNumber>168</PhaseNumber>
+        <MinimumEpicenterDistance>20.50</MinimumEpicenterDistance>
+        <gap unit="度">220</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-24T21:48:33+08:00</OriginTime>
+        <EpicenterLongitude>121.961</EpicenterLongitude>
+        <EpicenterLatitude>24.893</EpicenterLatitude>
+        <FocalDepth>108.1</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 82</StationNumber>
+        <PhaseNumber>156</PhaseNumber>
+        <MinimumEpicenterDistance>5.90</MinimumEpicenterDistance>
+        <gap unit="度">140</gap>
+        <rms unit="秒">0.31</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-24T23:31:13+08:00</OriginTime>
+        <EpicenterLongitude>121.357</EpicenterLongitude>
+        <EpicenterLatitude>23.178</EpicenterLatitude>
+        <FocalDepth>16.9</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 96</StationNumber>
+        <PhaseNumber>154</PhaseNumber>
+        <MinimumEpicenterDistance>6.80</MinimumEpicenterDistance>
+        <gap unit="度">109</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-25T05:00:54+08:00</OriginTime>
+        <EpicenterLongitude>121.410</EpicenterLongitude>
+        <EpicenterLatitude>22.175</EpicenterLatitude>
+        <FocalDepth>19.3</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 29</StationNumber>
+        <PhaseNumber>47</PhaseNumber>
+        <MinimumEpicenterDistance>21.60</MinimumEpicenterDistance>
+        <gap unit="度">83</gap>
+        <rms unit="秒">0.39</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">1.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-26T01:38:22+08:00</OriginTime>
+        <EpicenterLongitude>121.065</EpicenterLongitude>
+        <EpicenterLatitude>22.774</EpicenterLatitude>
+        <FocalDepth>5.4</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 87</StationNumber>
+        <PhaseNumber>153</PhaseNumber>
+        <MinimumEpicenterDistance>5.10</MinimumEpicenterDistance>
+        <gap unit="度">63</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-26T04:03:49+08:00</OriginTime>
+        <EpicenterLongitude>121.599</EpicenterLongitude>
+        <EpicenterLatitude>23.894</EpicenterLatitude>
+        <FocalDepth>9.2</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>232</PhaseNumber>
+        <MinimumEpicenterDistance>1.10</MinimumEpicenterDistance>
+        <gap unit="度">79</gap>
+        <rms unit="秒">0.37</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-26T05:53:14+08:00</OriginTime>
+        <EpicenterLongitude>120.801</EpicenterLongitude>
+        <EpicenterLatitude>22.221</EpicenterLatitude>
+        <FocalDepth>7.9</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 41</StationNumber>
+        <PhaseNumber>59</PhaseNumber>
+        <MinimumEpicenterDistance>0.50</MinimumEpicenterDistance>
+        <gap unit="度">79</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-26T06:17:54+08:00</OriginTime>
+        <EpicenterLongitude>121.662</EpicenterLongitude>
+        <EpicenterLatitude>24.588</EpicenterLatitude>
+        <FocalDepth>43.5</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 84</StationNumber>
+        <PhaseNumber>152</PhaseNumber>
+        <MinimumEpicenterDistance>7.50</MinimumEpicenterDistance>
+        <gap unit="度">37</gap>
+        <rms unit="秒">0.26</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-26T17:28:04+08:00</OriginTime>
+        <EpicenterLongitude>122.512</EpicenterLongitude>
+        <EpicenterLatitude>24.340</EpicenterLatitude>
+        <FocalDepth>49.3</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 55</StationNumber>
+        <PhaseNumber>106</PhaseNumber>
+        <MinimumEpicenterDistance>29.00</MinimumEpicenterDistance>
+        <gap unit="度">240</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-26T22:07:21+08:00</OriginTime>
+        <EpicenterLongitude>121.932</EpicenterLongitude>
+        <EpicenterLatitude>22.845</EpicenterLatitude>
+        <FocalDepth>41.0</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 76</StationNumber>
+        <PhaseNumber>131</PhaseNumber>
+        <MinimumEpicenterDistance>50.90</MinimumEpicenterDistance>
+        <gap unit="度">144</gap>
+        <rms unit="秒">0.46</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.7</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-27T03:41:33+08:00</OriginTime>
+        <EpicenterLongitude>122.376</EpicenterLongitude>
+        <EpicenterLatitude>25.100</EpicenterLatitude>
+        <FocalDepth>171.5</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 65</StationNumber>
+        <PhaseNumber>120</PhaseNumber>
+        <MinimumEpicenterDistance>39.70</MinimumEpicenterDistance>
+        <gap unit="度">276</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-27T04:12:01+08:00</OriginTime>
+        <EpicenterLongitude>121.149</EpicenterLongitude>
+        <EpicenterLatitude>22.351</EpicenterLatitude>
+        <FocalDepth>28.0</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>195</PhaseNumber>
+        <MinimumEpicenterDistance>25.20</MinimumEpicenterDistance>
+        <gap unit="度">72</gap>
+        <rms unit="秒">0.57</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-27T10:53:41+08:00</OriginTime>
+        <EpicenterLongitude>121.296</EpicenterLongitude>
+        <EpicenterLatitude>22.758</EpicenterLatitude>
+        <FocalDepth>39.7</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 81</StationNumber>
+        <PhaseNumber>128</PhaseNumber>
+        <MinimumEpicenterDistance>14.50</MinimumEpicenterDistance>
+        <gap unit="度">83</gap>
+        <rms unit="秒">0.47</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-27T13:28:46+08:00</OriginTime>
+        <EpicenterLongitude>121.813</EpicenterLongitude>
+        <EpicenterLatitude>24.801</EpicenterLatitude>
+        <FocalDepth>80.5</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>193</PhaseNumber>
+        <MinimumEpicenterDistance>6.20</MinimumEpicenterDistance>
+        <gap unit="度">59</gap>
+        <rms unit="秒">0.27</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-27T16:12:39+08:00</OriginTime>
+        <EpicenterLongitude>121.534</EpicenterLongitude>
+        <EpicenterLatitude>21.742</EpicenterLatitude>
+        <FocalDepth>146.9</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 25</StationNumber>
+        <PhaseNumber>42</PhaseNumber>
+        <MinimumEpicenterDistance>24.90</MinimumEpicenterDistance>
+        <gap unit="度">179</gap>
+        <rms unit="秒">0.25</rms>
+        <erh unit="公里">0.5</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-27T20:43:59+08:00</OriginTime>
+        <EpicenterLongitude>122.613</EpicenterLongitude>
+        <EpicenterLatitude>24.404</EpicenterLatitude>
+        <FocalDepth>78.2</FocalDepth>
+        <LocalMagnitude> 4.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>312</PhaseNumber>
+        <MinimumEpicenterDistance>40.80</MinimumEpicenterDistance>
+        <gap unit="度">219</gap>
+        <rms unit="秒">0.28</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-27T22:45:31+08:00</OriginTime>
+        <EpicenterLongitude>122.280</EpicenterLongitude>
+        <EpicenterLatitude>24.971</EpicenterLatitude>
+        <FocalDepth>15.2</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 65</StationNumber>
+        <PhaseNumber>107</PhaseNumber>
+        <MinimumEpicenterDistance>28.90</MinimumEpicenterDistance>
+        <gap unit="度">188</gap>
+        <rms unit="秒">0.31</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-27T22:47:52+08:00</OriginTime>
+        <EpicenterLongitude>122.271</EpicenterLongitude>
+        <EpicenterLatitude>24.962</EpicenterLatitude>
+        <FocalDepth>14.8</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 58</StationNumber>
+        <PhaseNumber>90</PhaseNumber>
+        <MinimumEpicenterDistance>28.20</MinimumEpicenterDistance>
+        <gap unit="度">233</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-28T00:48:35+08:00</OriginTime>
+        <EpicenterLongitude>122.694</EpicenterLongitude>
+        <EpicenterLatitude>24.611</EpicenterLatitude>
+        <FocalDepth>100.5</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 90</StationNumber>
+        <PhaseNumber>147</PhaseNumber>
+        <MinimumEpicenterDistance>59.00</MinimumEpicenterDistance>
+        <gap unit="度">241</gap>
+        <rms unit="秒">0.37</rms>
+        <erh unit="公里">0.6</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-28T13:02:07+08:00</OriginTime>
+        <EpicenterLongitude>122.336</EpicenterLongitude>
+        <EpicenterLatitude>24.917</EpicenterLatitude>
+        <FocalDepth>19.9</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 69</StationNumber>
+        <PhaseNumber>109</PhaseNumber>
+        <MinimumEpicenterDistance>35.80</MinimumEpicenterDistance>
+        <gap unit="度">189</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-28T14:44:08+08:00</OriginTime>
+        <EpicenterLongitude>121.743</EpicenterLongitude>
+        <EpicenterLatitude>24.609</EpicenterLatitude>
+        <FocalDepth>72.3</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 83</StationNumber>
+        <PhaseNumber>153</PhaseNumber>
+        <MinimumEpicenterDistance>3.90</MinimumEpicenterDistance>
+        <gap unit="度">53</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-28T16:52:32+08:00</OriginTime>
+        <EpicenterLongitude>122.174</EpicenterLongitude>
+        <EpicenterLatitude>23.508</EpicenterLatitude>
+        <FocalDepth>41.6</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 88</StationNumber>
+        <PhaseNumber>167</PhaseNumber>
+        <MinimumEpicenterDistance>67.70</MinimumEpicenterDistance>
+        <gap unit="度">174</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-28T17:50:46+08:00</OriginTime>
+        <EpicenterLongitude>122.247</EpicenterLongitude>
+        <EpicenterLatitude>24.078</EpicenterLatitude>
+        <FocalDepth>32.0</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>200</PhaseNumber>
+        <MinimumEpicenterDistance>8.60</MinimumEpicenterDistance>
+        <gap unit="度">138</gap>
+        <rms unit="秒">0.39</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-28T18:11:32+08:00</OriginTime>
+        <EpicenterLongitude>121.289</EpicenterLongitude>
+        <EpicenterLatitude>23.649</EpicenterLatitude>
+        <FocalDepth>7.4</FocalDepth>
+        <LocalMagnitude> 4.0</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>268</PhaseNumber>
+        <MinimumEpicenterDistance>14.30</MinimumEpicenterDistance>
+        <gap unit="度">66</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-28T20:22:33+08:00</OriginTime>
+        <EpicenterLongitude>121.283</EpicenterLongitude>
+        <EpicenterLatitude>23.646</EpicenterLatitude>
+        <FocalDepth>7.6</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>262</PhaseNumber>
+        <MinimumEpicenterDistance>15.00</MinimumEpicenterDistance>
+        <gap unit="度">59</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-28T22:36:48+08:00</OriginTime>
+        <EpicenterLongitude>122.355</EpicenterLongitude>
+        <EpicenterLatitude>24.892</EpicenterLatitude>
+        <FocalDepth>17.7</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 93</StationNumber>
+        <PhaseNumber>136</PhaseNumber>
+        <MinimumEpicenterDistance>38.50</MinimumEpicenterDistance>
+        <gap unit="度">202</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:11:23+08:00</OriginTime>
+        <EpicenterLongitude>121.279</EpicenterLongitude>
+        <EpicenterLatitude>23.649</EpicenterLatitude>
+        <FocalDepth>6.9</FocalDepth>
+        <LocalMagnitude> 5.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>342</PhaseNumber>
+        <MinimumEpicenterDistance>15.20</MinimumEpicenterDistance>
+        <gap unit="度">54</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:11:40+08:00</OriginTime>
+        <EpicenterLongitude>121.299</EpicenterLongitude>
+        <EpicenterLatitude>23.637</EpicenterLatitude>
+        <FocalDepth>10.0</FocalDepth>
+        <LocalMagnitude> 4.2</LocalMagnitude>
+        <StationNumber> 16</StationNumber>
+        <PhaseNumber>23</PhaseNumber>
+        <MinimumEpicenterDistance>13.60</MinimumEpicenterDistance>
+        <gap unit="度">88</gap>
+        <rms unit="秒">0.42</rms>
+        <erh unit="公里">1.3</erh>
+        <erz unit="公里">1.9</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>X</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:11:56+08:00</OriginTime>
+        <EpicenterLongitude>121.275</EpicenterLongitude>
+        <EpicenterLatitude>23.638</EpicenterLatitude>
+        <FocalDepth>6.6</FocalDepth>
+        <LocalMagnitude> 5.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>258</PhaseNumber>
+        <MinimumEpicenterDistance>15.80</MinimumEpicenterDistance>
+        <gap unit="度">74</gap>
+        <rms unit="秒">0.44</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:14:58+08:00</OriginTime>
+        <EpicenterLongitude>121.280</EpicenterLongitude>
+        <EpicenterLatitude>23.633</EpicenterLatitude>
+        <FocalDepth>8.1</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 83</StationNumber>
+        <PhaseNumber>124</PhaseNumber>
+        <MinimumEpicenterDistance>15.20</MinimumEpicenterDistance>
+        <gap unit="度">58</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.7</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:16:24+08:00</OriginTime>
+        <EpicenterLongitude>121.282</EpicenterLongitude>
+        <EpicenterLatitude>23.631</EpicenterLatitude>
+        <FocalDepth>8.1</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 77</StationNumber>
+        <PhaseNumber>126</PhaseNumber>
+        <MinimumEpicenterDistance>14.90</MinimumEpicenterDistance>
+        <gap unit="度">69</gap>
+        <rms unit="秒">0.39</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:18:37+08:00</OriginTime>
+        <EpicenterLongitude>121.276</EpicenterLongitude>
+        <EpicenterLatitude>23.636</EpicenterLatitude>
+        <FocalDepth>8.5</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>225</PhaseNumber>
+        <MinimumEpicenterDistance>15.60</MinimumEpicenterDistance>
+        <gap unit="度">57</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:18:44+08:00</OriginTime>
+        <EpicenterLongitude>121.273</EpicenterLongitude>
+        <EpicenterLatitude>23.641</EpicenterLatitude>
+        <FocalDepth>6.1</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 31</StationNumber>
+        <PhaseNumber>43</PhaseNumber>
+        <MinimumEpicenterDistance>16.10</MinimumEpicenterDistance>
+        <gap unit="度">57</gap>
+        <rms unit="秒">0.56</rms>
+        <erh unit="公里">0.7</erh>
+        <erz unit="公里">1.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:19:16+08:00</OriginTime>
+        <EpicenterLongitude>121.274</EpicenterLongitude>
+        <EpicenterLatitude>23.635</EpicenterLatitude>
+        <FocalDepth>7.8</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 85</StationNumber>
+        <PhaseNumber>153</PhaseNumber>
+        <MinimumEpicenterDistance>15.50</MinimumEpicenterDistance>
+        <gap unit="度">62</gap>
+        <rms unit="秒">0.37</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:25:22+08:00</OriginTime>
+        <EpicenterLongitude>121.276</EpicenterLongitude>
+        <EpicenterLatitude>23.642</EpicenterLatitude>
+        <FocalDepth>7.7</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>198</PhaseNumber>
+        <MinimumEpicenterDistance>16.20</MinimumEpicenterDistance>
+        <gap unit="度">81</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:31:42+08:00</OriginTime>
+        <EpicenterLongitude>121.278</EpicenterLongitude>
+        <EpicenterLatitude>23.664</EpicenterLatitude>
+        <FocalDepth>6.7</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>332</PhaseNumber>
+        <MinimumEpicenterDistance>15.30</MinimumEpicenterDistance>
+        <gap unit="度">58</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:44:12+08:00</OriginTime>
+        <EpicenterLongitude>121.283</EpicenterLongitude>
+        <EpicenterLatitude>23.631</EpicenterLatitude>
+        <FocalDepth>5.2</FocalDepth>
+        <LocalMagnitude> 3.9</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>276</PhaseNumber>
+        <MinimumEpicenterDistance>14.80</MinimumEpicenterDistance>
+        <gap unit="度">61</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T02:52:53+08:00</OriginTime>
+        <EpicenterLongitude>121.294</EpicenterLongitude>
+        <EpicenterLatitude>23.630</EpicenterLatitude>
+        <FocalDepth>7.2</FocalDepth>
+        <LocalMagnitude> 4.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>294</PhaseNumber>
+        <MinimumEpicenterDistance>14.30</MinimumEpicenterDistance>
+        <gap unit="度">63</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T03:07:33+08:00</OriginTime>
+        <EpicenterLongitude>121.284</EpicenterLongitude>
+        <EpicenterLatitude>23.633</EpicenterLatitude>
+        <FocalDepth>7.1</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>247</PhaseNumber>
+        <MinimumEpicenterDistance>14.90</MinimumEpicenterDistance>
+        <gap unit="度">62</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T03:14:12+08:00</OriginTime>
+        <EpicenterLongitude>121.283</EpicenterLongitude>
+        <EpicenterLatitude>23.632</EpicenterLatitude>
+        <FocalDepth>8.7</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>267</PhaseNumber>
+        <MinimumEpicenterDistance>14.90</MinimumEpicenterDistance>
+        <gap unit="度">68</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T03:16:32+08:00</OriginTime>
+        <EpicenterLongitude>121.272</EpicenterLongitude>
+        <EpicenterLatitude>23.659</EpicenterLatitude>
+        <FocalDepth>7.5</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>270</PhaseNumber>
+        <MinimumEpicenterDistance>15.80</MinimumEpicenterDistance>
+        <gap unit="度">59</gap>
+        <rms unit="秒">0.37</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T03:21:06+08:00</OriginTime>
+        <EpicenterLongitude>121.843</EpicenterLongitude>
+        <EpicenterLatitude>24.834</EpicenterLatitude>
+        <FocalDepth>104.8</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>218</PhaseNumber>
+        <MinimumEpicenterDistance>2.50</MinimumEpicenterDistance>
+        <gap unit="度">54</gap>
+        <rms unit="秒">0.35</rms>
+        <erh unit="公里">0.8</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>A</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T03:38:48+08:00</OriginTime>
+        <EpicenterLongitude>121.276</EpicenterLongitude>
+        <EpicenterLatitude>23.661</EpicenterLatitude>
+        <FocalDepth>8.4</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>185</PhaseNumber>
+        <MinimumEpicenterDistance>15.50</MinimumEpicenterDistance>
+        <gap unit="度">59</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T03:43:08+08:00</OriginTime>
+        <EpicenterLongitude>121.295</EpicenterLongitude>
+        <EpicenterLatitude>23.637</EpicenterLatitude>
+        <FocalDepth>8.5</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 92</StationNumber>
+        <PhaseNumber>156</PhaseNumber>
+        <MinimumEpicenterDistance>14.00</MinimumEpicenterDistance>
+        <gap unit="度">69</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T04:26:45+08:00</OriginTime>
+        <EpicenterLongitude>121.300</EpicenterLongitude>
+        <EpicenterLatitude>23.638</EpicenterLatitude>
+        <FocalDepth>8.6</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>268</PhaseNumber>
+        <MinimumEpicenterDistance>13.40</MinimumEpicenterDistance>
+        <gap unit="度">68</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T04:42:44+08:00</OriginTime>
+        <EpicenterLongitude>121.302</EpicenterLongitude>
+        <EpicenterLatitude>23.637</EpicenterLatitude>
+        <FocalDepth>8.0</FocalDepth>
+        <LocalMagnitude> 4.0</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>279</PhaseNumber>
+        <MinimumEpicenterDistance>13.30</MinimumEpicenterDistance>
+        <gap unit="度">62</gap>
+        <rms unit="秒">0.34</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T05:17:42+08:00</OriginTime>
+        <EpicenterLongitude>121.296</EpicenterLongitude>
+        <EpicenterLatitude>23.627</EpicenterLatitude>
+        <FocalDepth>6.7</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>178</PhaseNumber>
+        <MinimumEpicenterDistance>14.00</MinimumEpicenterDistance>
+        <gap unit="度">63</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T05:24:37+08:00</OriginTime>
+        <EpicenterLongitude>121.281</EpicenterLongitude>
+        <EpicenterLatitude>23.625</EpicenterLatitude>
+        <FocalDepth>6.3</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>246</PhaseNumber>
+        <MinimumEpicenterDistance>14.20</MinimumEpicenterDistance>
+        <gap unit="度">61</gap>
+        <rms unit="秒">0.37</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T05:47:52+08:00</OriginTime>
+        <EpicenterLongitude>121.286</EpicenterLongitude>
+        <EpicenterLatitude>23.628</EpicenterLatitude>
+        <FocalDepth>7.0</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>220</PhaseNumber>
+        <MinimumEpicenterDistance>14.40</MinimumEpicenterDistance>
+        <gap unit="度">61</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T06:06:41+08:00</OriginTime>
+        <EpicenterLongitude>122.047</EpicenterLongitude>
+        <EpicenterLatitude>23.247</EpicenterLatitude>
+        <FocalDepth>45.1</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 83</StationNumber>
+        <PhaseNumber>155</PhaseNumber>
+        <MinimumEpicenterDistance>61.30</MinimumEpicenterDistance>
+        <gap unit="度">164</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T09:52:29+08:00</OriginTime>
+        <EpicenterLongitude>121.349</EpicenterLongitude>
+        <EpicenterLatitude>22.708</EpicenterLatitude>
+        <FocalDepth>32.9</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 89</StationNumber>
+        <PhaseNumber>155</PhaseNumber>
+        <MinimumEpicenterDistance>12.90</MinimumEpicenterDistance>
+        <gap unit="度">67</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T11:12:02+08:00</OriginTime>
+        <EpicenterLongitude>121.280</EpicenterLongitude>
+        <EpicenterLatitude>23.661</EpicenterLatitude>
+        <FocalDepth>7.2</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>163</PhaseNumber>
+        <MinimumEpicenterDistance>15.10</MinimumEpicenterDistance>
+        <gap unit="度">60</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.6</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T13:37:23+08:00</OriginTime>
+        <EpicenterLongitude>122.357</EpicenterLongitude>
+        <EpicenterLatitude>24.079</EpicenterLatitude>
+        <FocalDepth>28.4</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 95</StationNumber>
+        <PhaseNumber>190</PhaseNumber>
+        <MinimumEpicenterDistance>6.20</MinimumEpicenterDistance>
+        <gap unit="度">213</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T18:48:09+08:00</OriginTime>
+        <EpicenterLongitude>121.486</EpicenterLongitude>
+        <EpicenterLatitude>23.924</EpicenterLatitude>
+        <FocalDepth>15.8</FocalDepth>
+        <LocalMagnitude> 3.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>177</PhaseNumber>
+        <MinimumEpicenterDistance>4.70</MinimumEpicenterDistance>
+        <gap unit="度">52</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T18:49:34+08:00</OriginTime>
+        <EpicenterLongitude>121.269</EpicenterLongitude>
+        <EpicenterLatitude>23.665</EpicenterLatitude>
+        <FocalDepth>6.2</FocalDepth>
+        <LocalMagnitude> 3.7</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>270</PhaseNumber>
+        <MinimumEpicenterDistance>16.10</MinimumEpicenterDistance>
+        <gap unit="度">49</gap>
+        <rms unit="秒">0.38</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.5</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T20:53:05+08:00</OriginTime>
+        <EpicenterLongitude>121.427</EpicenterLongitude>
+        <EpicenterLatitude>23.283</EpicenterLatitude>
+        <FocalDepth>26.4</FocalDepth>
+        <LocalMagnitude> 3.6</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>264</PhaseNumber>
+        <MinimumEpicenterDistance>4.40</MinimumEpicenterDistance>
+        <gap unit="度">97</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-29T22:52:28+08:00</OriginTime>
+        <EpicenterLongitude>120.610</EpicenterLongitude>
+        <EpicenterLatitude>22.723</EpicenterLatitude>
+        <FocalDepth>19.1</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>269</PhaseNumber>
+        <MinimumEpicenterDistance>3.90</MinimumEpicenterDistance>
+        <gap unit="度">55</gap>
+        <rms unit="秒">0.37</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-30T01:01:25+08:00</OriginTime>
+        <EpicenterLongitude>120.680</EpicenterLongitude>
+        <EpicenterLatitude>23.596</EpicenterLatitude>
+        <FocalDepth>11.8</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>234</PhaseNumber>
+        <MinimumEpicenterDistance>0.30</MinimumEpicenterDistance>
+        <gap unit="度">16</gap>
+        <rms unit="秒">0.21</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-30T01:01:35+08:00</OriginTime>
+        <EpicenterLongitude>120.665</EpicenterLongitude>
+        <EpicenterLatitude>23.588</EpicenterLatitude>
+        <FocalDepth>10.4</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 9</StationNumber>
+        <PhaseNumber>14</PhaseNumber>
+        <MinimumEpicenterDistance>1.60</MinimumEpicenterDistance>
+        <gap unit="度">110</gap>
+        <rms unit="秒">0.06</rms>
+        <erh unit="公里">0.3</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-30T06:02:20+08:00</OriginTime>
+        <EpicenterLongitude>121.950</EpicenterLongitude>
+        <EpicenterLatitude>24.785</EpicenterLatitude>
+        <FocalDepth>90.6</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 66</StationNumber>
+        <PhaseNumber>111</PhaseNumber>
+        <MinimumEpicenterDistance>6.40</MinimumEpicenterDistance>
+        <gap unit="度">174</gap>
+        <rms unit="秒">0.3</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-30T06:10:45+08:00</OriginTime>
+        <EpicenterLongitude>120.911</EpicenterLongitude>
+        <EpicenterLatitude>22.157</EpicenterLatitude>
+        <FocalDepth>6.8</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 60</StationNumber>
+        <PhaseNumber>97</PhaseNumber>
+        <MinimumEpicenterDistance>13.20</MinimumEpicenterDistance>
+        <gap unit="度">107</gap>
+        <rms unit="秒">0.24</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-30T08:44:11+08:00</OriginTime>
+        <EpicenterLongitude>122.269</EpicenterLongitude>
+        <EpicenterLatitude>24.893</EpicenterLatitude>
+        <FocalDepth>113.8</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 59</StationNumber>
+        <PhaseNumber>112</PhaseNumber>
+        <MinimumEpicenterDistance>30.30</MinimumEpicenterDistance>
+        <gap unit="度">247</gap>
+        <rms unit="秒">0.29</rms>
+        <erh unit="公里">0.4</erh>
+        <erz unit="公里">0.3</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-30T17:09:51+08:00</OriginTime>
+        <EpicenterLongitude>122.048</EpicenterLongitude>
+        <EpicenterLatitude>24.882</EpicenterLatitude>
+        <FocalDepth>111.7</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 60</StationNumber>
+        <PhaseNumber>112</PhaseNumber>
+        <MinimumEpicenterDistance>11.40</MinimumEpicenterDistance>
+        <gap unit="度">194</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">1.2</erh>
+        <erz unit="公里">0.9</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-31T02:18:43+08:00</OriginTime>
+        <EpicenterLongitude>121.717</EpicenterLongitude>
+        <EpicenterLatitude>24.155</EpicenterLatitude>
+        <FocalDepth>32.7</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>224</PhaseNumber>
+        <MinimumEpicenterDistance>9.50</MinimumEpicenterDistance>
+        <gap unit="度">52</gap>
+        <rms unit="秒">0.36</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-31T03:07:26+08:00</OriginTime>
+        <EpicenterLongitude>122.300</EpicenterLongitude>
+        <EpicenterLatitude>21.384</EpicenterLatitude>
+        <FocalDepth>148.5</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 47</StationNumber>
+        <PhaseNumber>65</PhaseNumber>
+        <MinimumEpicenterDistance>82.00</MinimumEpicenterDistance>
+        <gap unit="度">293</gap>
+        <rms unit="秒">0.47</rms>
+        <erh unit="公里">1.3</erh>
+        <erz unit="公里">1.1</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-31T03:09:51+08:00</OriginTime>
+        <EpicenterLongitude>122.370</EpicenterLongitude>
+        <EpicenterLatitude>24.797</EpicenterLatitude>
+        <FocalDepth>4.6</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 78</StationNumber>
+        <PhaseNumber>152</PhaseNumber>
+        <MinimumEpicenterDistance>43.50</MinimumEpicenterDistance>
+        <gap unit="度">190</gap>
+        <rms unit="秒">0.44</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>D</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-31T03:43:48+08:00</OriginTime>
+        <EpicenterLongitude>122.025</EpicenterLongitude>
+        <EpicenterLatitude>24.813</EpicenterLatitude>
+        <FocalDepth>8.7</FocalDepth>
+        <LocalMagnitude> 3.0</LocalMagnitude>
+        <StationNumber> 95</StationNumber>
+        <PhaseNumber>170</PhaseNumber>
+        <MinimumEpicenterDistance>8.90</MinimumEpicenterDistance>
+        <gap unit="度">175</gap>
+        <rms unit="秒">0.32</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-31T07:24:34+08:00</OriginTime>
+        <EpicenterLongitude>121.289</EpicenterLongitude>
+        <EpicenterLatitude>23.668</EpicenterLatitude>
+        <FocalDepth>7.4</FocalDepth>
+        <LocalMagnitude> 3.1</LocalMagnitude>
+        <StationNumber> 87</StationNumber>
+        <PhaseNumber>135</PhaseNumber>
+        <MinimumEpicenterDistance>14.10</MinimumEpicenterDistance>
+        <gap unit="度">59</gap>
+        <rms unit="秒">0.33</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.8</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-31T10:33:08+08:00</OriginTime>
+        <EpicenterLongitude>121.843</EpicenterLongitude>
+        <EpicenterLatitude>24.283</EpicenterLatitude>
+        <FocalDepth>9.9</FocalDepth>
+        <LocalMagnitude> 3.5</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>165</PhaseNumber>
+        <MinimumEpicenterDistance>9.90</MinimumEpicenterDistance>
+        <gap unit="度">90</gap>
+        <rms unit="秒">0.39</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.2</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-01-31T20:25:59+08:00</OriginTime>
+        <EpicenterLongitude>121.789</EpicenterLongitude>
+        <EpicenterLatitude>24.677</EpicenterLatitude>
+        <FocalDepth>74.7</FocalDepth>
+        <LocalMagnitude> 4.3</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>340</PhaseNumber>
+        <MinimumEpicenterDistance>8.80</MinimumEpicenterDistance>
+        <gap unit="度">76</gap>
+        <rms unit="秒">0.28</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-02-01T01:30:10+08:00</OriginTime>
+        <EpicenterLongitude>121.270</EpicenterLongitude>
+        <EpicenterLatitude>23.670</EpicenterLatitude>
+        <FocalDepth>7.1</FocalDepth>
+        <LocalMagnitude> 3.2</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>247</PhaseNumber>
+        <MinimumEpicenterDistance>16.00</MinimumEpicenterDistance>
+        <gap unit="度">55</gap>
+        <rms unit="秒">0.4</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.4</erz>
+        <Quality>C</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-02-01T03:58:56+08:00</OriginTime>
+        <EpicenterLongitude>121.733</EpicenterLongitude>
+        <EpicenterLatitude>24.614</EpicenterLatitude>
+        <FocalDepth>71.5</FocalDepth>
+        <LocalMagnitude> 3.9</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>281</PhaseNumber>
+        <MinimumEpicenterDistance>2.80</MinimumEpicenterDistance>
+        <gap unit="度">54</gap>
+        <rms unit="秒">0.28</rms>
+        <erh unit="公里">0.2</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+      <EarthquakeInfo>
+        <OriginTime>2024-02-01T06:55:26+08:00</OriginTime>
+        <EpicenterLongitude>120.671</EpicenterLongitude>
+        <EpicenterLatitude>22.846</EpicenterLatitude>
+        <FocalDepth>18.5</FocalDepth>
+        <LocalMagnitude> 3.4</LocalMagnitude>
+        <StationNumber> 99</StationNumber>
+        <PhaseNumber>190</PhaseNumber>
+        <MinimumEpicenterDistance>11.70</MinimumEpicenterDistance>
+        <gap unit="度">37</gap>
+        <rms unit="秒">0.23</rms>
+        <erh unit="公里">0.1</erh>
+        <erz unit="公里">0.1</erz>
+        <Quality>B</Quality>
+        <ReviewStatus>F</ReviewStatus>
+      </EarthquakeInfo>
+    </Catalog>
+  </Dataset>
+</cwaopendata>
