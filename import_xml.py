@@ -6,7 +6,7 @@ import os
 earthquake_taiwan = list()
 
 # change it to your own path
-directory_path = r'C:\Users\ylee7\Downloads\E-A0073-002' 
+directory_path = r'YOUR OWN PATH' # E-A0073-002 
 
 target_file = os.path.join(directory_path, 'CWA-EQ-Catalog-*.xml')
 xml_files = glob.glob(target_file)
